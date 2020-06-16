@@ -1,1 +1,1 @@
-echo "This is class" >>C:\output.log
+echo "This is class" 
